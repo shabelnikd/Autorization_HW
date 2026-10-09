@@ -5,4 +5,7 @@
     <color name="alpha_white_80">#80FFFFFF</color>
     <color name="btn_login_after">#b76d00</color>
     <color name="btn_login_before">#828282</color>
+    
+    
+    <color name="bg_main">#28323B</color>
 </resources>
